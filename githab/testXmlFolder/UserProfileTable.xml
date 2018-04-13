@@ -1,0 +1,28 @@
+<by.grsu.nekrevich.datamodel.table.UserProfileTable>
+  <rows>
+    <by.grsu.nekrevich.datamodel.UserProfile>
+      <id>35164958991307</id>
+      <credentials>
+        <id>35164958991307</id>
+        <email>admin</email>
+        <password>admin</password>
+        <role>admin</role>
+      </credentials>
+      <firstName>user1</firstName>
+      <lastName>user1</lastName>
+      <created>2018-04-13 06:58:58.944 UTC</created>
+    </by.grsu.nekrevich.datamodel.UserProfile>
+    <by.grsu.nekrevich.datamodel.UserProfile>
+      <id>35164958991307</id>
+      <credentials>
+        <id>35164958991307</id>
+        <email>admin</email>
+        <password>admin</password>
+        <role>admin</role>
+      </credentials>
+      <firstName>user1</firstName>
+      <lastName>user1</lastName>
+      <created>2018-04-13 06:58:59.145 UTC</created>
+    </by.grsu.nekrevich.datamodel.UserProfile>
+  </rows>
+</by.grsu.nekrevich.datamodel.table.UserProfileTable>
